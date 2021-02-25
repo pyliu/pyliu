@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pyliu
-- 👀 I’m interested in casual coding
-- 🌱 I’m currently learning Vue/nodejs
+- 👀 I’m interested in casual coding skill
+- 🌱 I’m currently learning Vue/nodejs/websocket
 - 💞️ I’m looking to collaborate on ... none
 - 📫 How to reach me ... by email
 
